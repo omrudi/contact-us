@@ -20,5 +20,5 @@ The spreadsheet is located [here](https://docs.google.com/spreadsheets/d/1dSN_MY
 - [1] open your google spreadsheet doc 
 - [2] then select the Script Editor and copy google_script to script editor 
 - [3] select File > Manage versions
-- [4] you need the authentication scope changes and to approve additional services.
+- [4] you need the authentication scope changes and to approve additional services. The easiest way to trigger this in this example is in the Script Editor Run > setup.
 - [5] then going into Publish > Deploy as web app and updating Project Version
